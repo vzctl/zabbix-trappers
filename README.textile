@@ -1,0 +1,16 @@
+h1. zabbix-trappers: Collection of ruby scripts for zabbix trappers
+
+h2. Usage
+
+# Include someting like "UserParameter=haproxy.live,/usr/local/bin/zabbix_haproxy.rb" in zabbix_configd.conf
+# Create haproxy.live monitoring item
+# Add trappers
+
+h2. References
+
+http://www.zabbix.com/wiki/howto/monitor/db/mysql/extensive_mysql_monitoring_including_replication
+
+h2. Support & getting help
+
+For getting help or discussing about this scripts, you can join #support on the irc.realisticgroup.com or email to lex.public@gmail.com.
+
