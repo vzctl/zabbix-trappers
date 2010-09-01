@@ -1,5 +1,7 @@
 h1. zabbix-trappers: Collection of ruby scripts for zabbix trappers
 
+These scripts released under the terms of the GNU General Public License v2
+
 h2. Usage
 
 # Include someting like "UserParameter=haproxy.live,/usr/local/bin/zabbix_haproxy.rb" in zabbix_configd.conf
